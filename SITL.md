@@ -1,9 +1,19 @@
 # Getting Dronekit working
 
+Follow the procedure below to get started with dronekit.
+
+## Useful links
+
+* http://python.dronekit.io/examples/index.html
+* https://www.learnpython.org/en/Variables_and_Types
+* https://www.learnpython.org/en/Functions
+* http://python.dronekit.io/guide/quick_start.html
+* http://python.dronekit.io/guide/index.html
+
 # PRELAB / CLASS
 
 ## Download Anaconda 2
-
+For python2.7: https://www.anaconda.com/download/
 Open Anaconda prompt and navigate to your working directory. Use
 
     cd <foldername> # to down a folder level 
@@ -11,15 +21,18 @@ Open Anaconda prompt and navigate to your working directory. Use
     
 ## Download Mission Planner
 
+For Windows: http://ardupilot.org/planner/docs/mission-planner-installation.html
 Open Mission planner.
 Change the connection method (upper right hand corner) to TCP and follow the rest of the steps.
 
 ## Download dependencies
+In the Anaconda Prompt type:
     
     pip install dronekit
     pip install dronekit-sitl
     
 ## Run example 
+Copy the below code and save as python file in Spyder. 
 
     print( "Start simulator (SITL)" )
     import dronekit_sitl
@@ -48,3 +61,9 @@ Change the connection method (upper right hand corner) to TCP and follow the res
     # Shut down simulator
     sitl.stop()
     print("Completed")
+
+## Other Examples
+
+Download or pull from the Dronekit-python library in Github. From the git shell and Linux you can type:
+
+    git clone http://github.com/dronekit/dronekit-python.git
