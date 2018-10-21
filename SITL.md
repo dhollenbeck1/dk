@@ -1,6 +1,18 @@
 # Getting Dronekit working
 
+# PRELAB / CLASS
+
 ## Download Anaconda 2
+
+Open Anaconda prompt and navigate to your working directory. Use
+
+    cd <foldername> # to down a folder level 
+    cd .. #to move up a folder level
+    
+## Download Mission Planner
+
+Open Mission planner.
+Change the connection method (upper right hand corner) to TCP and follow the rest of the steps.
 
 ## Download dependencies
     
