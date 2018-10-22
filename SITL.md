@@ -5,11 +5,7 @@ Follow the procedure below to get started with dronekit.
 ## Useful links
 
 * http://python.dronekit.io
-* http://python.dronekit.io/examples/index.html
-* https://www.learnpython.org/en/Variables_and_Types
-* https://www.learnpython.org/en/Functions
-* http://python.dronekit.io/guide/quick_start.html
-* http://python.dronekit.io/guide/index.html
+* https://www.learnpython.org
 
 # PRELAB / CLASS
 
