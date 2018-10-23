@@ -4,8 +4,10 @@ Follow the procedure below to get started with dronekit.
 
 ## Useful links
 
+* https://winscp.net/eng/download.php
 * http://python.dronekit.io
 * https://www.learnpython.org
+
 
 # PRELAB / CLASS
 
