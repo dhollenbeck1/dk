@@ -23,9 +23,13 @@ Open Anaconda prompt and navigate to your working directory. Use
 ## Download Mission Planner
 
 For Windows: http://ardupilot.org/planner/docs/mission-planner-installation.html
-Open Mission planner.
-Change the connection method (upper right hand corner) to TCP and follow the rest of the steps.
+* Open Mission planner. 
+* Click on simulation and type the following command into the extra command line field
 
+    --home=37.3769269491065,-120.413997173309,87.422486744914,0
+    
+This will start the SITL with the --home=lat,lon,alt(MSL),absolute heading
+    
 ## Download dependencies
 In the Anaconda Prompt type:
     
