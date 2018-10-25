@@ -36,7 +36,9 @@ In the Anaconda Prompt type:
     pip install dronekit
     pip install dronekit-sitl
     pip install mavproxy
-    mavproxy.py --master tcp:127.0.0.1:5760 --out udp:127.0.0.1:14551 -- out udp:10.55.222.120:14550
+  
+If mavproxy works for you. You can use the following commands and connect on MP through the UDP port below.
+* mavproxy.py --master tcp:127.0.0.1:5760 --out udp:127.0.0.1:14551 --out udp:10.55.222.120:14550
     
 ## Run example 
 Copy the below code and save as python file in Spyder. 
