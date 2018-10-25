@@ -7,7 +7,9 @@ Follow the procedure below to get started with dronekit.
 * https://winscp.net/eng/download.php
 * http://python.dronekit.io
 * https://www.learnpython.org
-
+* https://commandwindows.com/command3.htm
+* https://www.anaconda.com/download/#windows
+* https://notepad-plus-plus.org/download/v7.5.1.html
 
 # PRELAB / CLASS
 
