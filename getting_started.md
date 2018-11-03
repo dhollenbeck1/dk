@@ -10,6 +10,7 @@ Follow the procedure below to get started with dronekit.
 * https://commandwindows.com/command3.htm
 * https://www.anaconda.com/download/#windows
 * https://notepad-plus-plus.org/download/v7.5.1.html
+* https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 # PRELAB / CLASS
 
